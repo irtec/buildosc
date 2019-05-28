@@ -1,0 +1,2 @@
+# buildosc
+Linux
